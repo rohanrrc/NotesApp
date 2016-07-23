@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0087F7</color>
+    <color name="colorPrimaryDark">#006CC6</color>
+    <color name="colorAccent">#0087F7</color>
+    <color name="grey">#ececec</color>
+</resources>
+    <!--fb light 3A5B96, dark:2F4877 -->
+<!--messenger light 0087F7, dark: 006CC6 -->
+<!--default light 3F51B5, dark 303F9F, accent: 303F9F -->
